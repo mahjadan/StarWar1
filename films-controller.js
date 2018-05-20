@@ -1,6 +1,5 @@
 const rp = require('request-promise');
-const Planet =require('./planet-model.js')
-const async =require('async');
+const Planet =require('./planet-model.js');
 
 var exports= module.exports={};
 var allFilmsUrl=[];
